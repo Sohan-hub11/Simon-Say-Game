@@ -20,7 +20,7 @@ body{
 }
 
 .green{
-    background-color: greenyellow;
+    background-color: rgb(70, 158, 111);
 }
 
 .yellow{
@@ -33,4 +33,8 @@ body{
 
 .flash{
     background-color: white;
+}
+
+.userFlash{
+    background-color: greenyellow;
 }
