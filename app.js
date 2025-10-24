@@ -5,7 +5,9 @@ let started = false;
 let level = 0;
 
 //Start Game.
-document.addEventListener("keypress", function() {
-    console.console.log("Game Started");
-    
+document.addEventListener("keypress", function () {
+    if(started == false){
+        console.log("Game Started");
+        started = true;
+    }
 });
