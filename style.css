@@ -1,11 +1,12 @@
 body{
     text-align: center;
+    background-color: rgb(246, 237, 117);
 }
 
 .btn{
-    height: 250px;
-    width: 250px;
-    border-radius: 12%;
+    height: 230px;
+    width: 230px;
+    border-radius: 15%;
     border: 7.5px solid black;
     margin: 1.2rem;
 }
