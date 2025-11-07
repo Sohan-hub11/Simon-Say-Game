@@ -14,4 +14,10 @@ This version uses a simple and clean UI and is suitable for learning JavaScript,
 - Player input detection and validation.  
 - Visual feedback for correct vs incorrect input.  
 - Score (round) tracking and restart on failure.  
-- Responsive layout for use in desktop or mobile browser.  
+- Responsive layout for use in desktop or mobile browser.
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Sohan Samanta](https://github.com/Sohan-hub11)
